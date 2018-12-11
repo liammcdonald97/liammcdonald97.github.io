@@ -1,3 +1,3 @@
 body {
-	background-image: ./pictures/skyline.jpg
+	background-image: url("../pictures/skyline.jpg");
 }
