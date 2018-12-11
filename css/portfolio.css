@@ -2,3 +2,7 @@ header {
 	background-image: url("../pictures/skyline_1.jpg");
 	height: 100vh;
 }
+
+.navbar {
+	bacnkground-color: red;
+}
